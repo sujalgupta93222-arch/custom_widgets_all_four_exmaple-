@@ -1,16 +1,23 @@
-# widgets
+this is a exmaple of a custom widgets 
 
-A new Flutter project.
+# that are have total 4 custom widgets 
+ ## Normal class = data store/logic
 
-## Getting Started
+ ## Function widget = only UI
 
-This project is a starting point for a Flutter application.
+ ## Stateless widget = UI (no data manage)
 
-A few resources to get you started if this is your first Flutter project:
+ ## Stateful widget = UI + data manage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# my own view
+flutter me total 4 tarah ke widgets bna sakte ha 
+1) funtion widgets : acha ha easy ha but data ko store nahi kar sakte kyu refresh me chala jayega  ex: wedget functionname(){},
+2) normal class : iske ham basic logic aur data store kar sakte ha but UI ke liya ke liya funtion widgets ka use karna padta ha exmaple: class classname{}
+2) staeless widgets: iska use UI banane ke liya use hota ha but data manage nahi kar sakta kyu ki iske pass koi state nahi ha exmaple : class classname extends staleless{}
+4) satefull widgets : sebse best widgets ha Real life me both use hota ha UI + data dono ko manages kar sakta ha ek sath me ex: class classname extends statefull{}
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# screenshot :
+## all custom widgets Look 
+
+
